@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Jungle</string>
+    <string name="navigation_drawer_open">Ouvrir le navigateur a gauche</string>
+    <string name="navigation_drawer_close">Fermer le navigateur gauche</string>
+    <string name="nav_header_title"></string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Entete de navigation</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="API_BASE">http://157.26.174.150:82/Jungle/public/api/v1</string>
+    <string name="title_activity_articlerow">articlerow</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">REGISTER</string>
+    <string name="error_invalid_email">Lemail nest pas valide</string>
+    <string name="error_invalid_password">Le mot de passe est trop petit</string>
+    <string name="error_incorrect_password">Le mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champ est requis</string>
+
+    <string name="action_login_register">Login / Register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_article_detail">ArticleDetail</string>
+    <string name="title_activity_deleteme">deleteme</string>
+    <string name="title_activity_article_add">ArticleAdd</string>
+</resources>
